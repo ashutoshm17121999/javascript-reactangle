@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.rect-1{
+ 
+    padding: 4%;
+    margin-top: 5.5%;
+    padding-left: 2%;
+  
+}
+.input-text1{
+    text-align: center;
+    margin-left: 10px;
+  
+}
+.input-text2{
+    text-align: center;
+    margin-left: 1.4%;
+  
+}
+input{
+    padding: 11px 10px;
+    width: 40%;
+    border-radius: 6px;
+}
+.button-2{
+    padding: 8px;
+    margin-left: 42%;
+    margin-top: 0%;
+    width: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 5px ;
+    background-color: rgb(181, 181, 181);
+}
+#bottom-section{
+  
+    margin-top: 5%;
+    padding-left: 23%;
+    font-size: 20px;
+  
+}
+.first-one{
+    width: 50%;
+    display: flex;
+    margin: 2%;
+    
+  
+}
+.second-one{
+    width: 40%;
+    display: flex;
+    margin: 2%;
+  
+}
+
